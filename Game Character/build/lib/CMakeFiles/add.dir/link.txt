@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libadd.a CMakeFiles/add.dir/game.cpp.obj CMakeFiles/add.dir/character.cpp.obj
+C:\MinGW\bin\ranlib.exe libadd.a

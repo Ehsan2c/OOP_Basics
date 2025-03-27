@@ -1,0 +1,8 @@
+G:/C++/HW2/GPS Location/build/CMakeFiles/edit_cache.dir
+G:/C++/HW2/GPS Location/build/CMakeFiles/rebuild_cache.dir
+G:/C++/HW2/GPS Location/build/lib/CMakeFiles/add.dir
+G:/C++/HW2/GPS Location/build/lib/CMakeFiles/edit_cache.dir
+G:/C++/HW2/GPS Location/build/lib/CMakeFiles/rebuild_cache.dir
+G:/C++/HW2/GPS Location/build/src/CMakeFiles/gpslocation.dir
+G:/C++/HW2/GPS Location/build/src/CMakeFiles/edit_cache.dir
+G:/C++/HW2/GPS Location/build/src/CMakeFiles/rebuild_cache.dir

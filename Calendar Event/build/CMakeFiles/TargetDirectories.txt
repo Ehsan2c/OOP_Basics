@@ -1,0 +1,8 @@
+G:/C++/HW2/Calendar Event/build/CMakeFiles/edit_cache.dir
+G:/C++/HW2/Calendar Event/build/CMakeFiles/rebuild_cache.dir
+G:/C++/HW2/Calendar Event/build/lib/CMakeFiles/add.dir
+G:/C++/HW2/Calendar Event/build/lib/CMakeFiles/edit_cache.dir
+G:/C++/HW2/Calendar Event/build/lib/CMakeFiles/rebuild_cache.dir
+G:/C++/HW2/Calendar Event/build/src/CMakeFiles/calendarevent.dir
+G:/C++/HW2/Calendar Event/build/src/CMakeFiles/edit_cache.dir
+G:/C++/HW2/Calendar Event/build/src/CMakeFiles/rebuild_cache.dir

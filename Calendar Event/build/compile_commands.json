@@ -1,0 +1,20 @@
+[
+{
+  "directory": "G:/C++/HW2/Calendar Event/build/lib",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/add.dir/includes_CXX.rsp -g -o CMakeFiles\\add.dir\\calendar.cpp.obj -c \"G:\\C++\\HW2\\Calendar Event\\lib\\calendar.cpp\"",
+  "file": "G:/C++/HW2/Calendar Event/lib/calendar.cpp",
+  "output": "lib/CMakeFiles/add.dir/calendar.cpp.obj"
+},
+{
+  "directory": "G:/C++/HW2/Calendar Event/build/lib",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/add.dir/includes_CXX.rsp -g -o CMakeFiles\\add.dir\\event.cpp.obj -c \"G:\\C++\\HW2\\Calendar Event\\lib\\event.cpp\"",
+  "file": "G:/C++/HW2/Calendar Event/lib/event.cpp",
+  "output": "lib/CMakeFiles/add.dir/event.cpp.obj"
+},
+{
+  "directory": "G:/C++/HW2/Calendar Event/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/calendarevent.dir/includes_CXX.rsp -g -o CMakeFiles\\calendarevent.dir\\main.cpp.obj -c \"G:\\C++\\HW2\\Calendar Event\\src\\main.cpp\"",
+  "file": "G:/C++/HW2/Calendar Event/src/main.cpp",
+  "output": "src/CMakeFiles/calendarevent.dir/main.cpp.obj"
+}
+]

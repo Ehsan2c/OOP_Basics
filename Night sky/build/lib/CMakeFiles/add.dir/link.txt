@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libadd.a CMakeFiles/add.dir/star.cpp.obj CMakeFiles/add.dir/sky.cpp.obj
+C:\MinGW\bin\ranlib.exe libadd.a

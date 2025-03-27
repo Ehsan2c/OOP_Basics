@@ -1,0 +1,8 @@
+G:/C++/HW2/Medical Patient/build/CMakeFiles/edit_cache.dir
+G:/C++/HW2/Medical Patient/build/CMakeFiles/rebuild_cache.dir
+G:/C++/HW2/Medical Patient/build/lib/CMakeFiles/add.dir
+G:/C++/HW2/Medical Patient/build/lib/CMakeFiles/edit_cache.dir
+G:/C++/HW2/Medical Patient/build/lib/CMakeFiles/rebuild_cache.dir
+G:/C++/HW2/Medical Patient/build/src/CMakeFiles/medicalpatient.dir
+G:/C++/HW2/Medical Patient/build/src/CMakeFiles/edit_cache.dir
+G:/C++/HW2/Medical Patient/build/src/CMakeFiles/rebuild_cache.dir

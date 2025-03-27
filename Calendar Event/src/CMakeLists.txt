@@ -1,0 +1,2 @@
+add_executable(calendarevent main.cpp)
+target_link_libraries(calendarevent add)
